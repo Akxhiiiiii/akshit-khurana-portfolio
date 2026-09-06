@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akxhiiiiii.github.io/akshit-khurana-portfolio/sitemap.xml
