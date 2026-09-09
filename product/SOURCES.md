@@ -1,9 +1,10 @@
 # Product asset provenance
 
-The selected packaging is the classic silver GB Diet Coke can, referenced from https://www.coca-cola.com/gb/en/brands/diet-coke on 7 September 2026.
+The archive compositions use the classic silver GB Diet Coke can, referenced from https://www.coca-cola.com/gb/en/brands/diet-coke on 7 September 2026. The rotating 3D study was revised on 9 September to match the tall Indian 330 ml can in eleven photographs supplied by the portfolio owner. Those private photographs are references only and are not shipped with the website.
 
 - official-reference.jpg: Coca-Cola product photograph, https://www.coca-cola.com/content/dam/onexp/gb/en/brands/diet-coke/Product-Information-diet-coke.jpg . Used as the authentic fallback and in five unsolicited concept compositions. Brand photography and trademarks belong to their owners; this portfolio does not claim affiliation or commission.
 - wordmark.svg: outlined Coca-Cola wordmark from https://commons.wikimedia.org/wiki/File:Diet_Coke_logo.svg (Coca-Cola Company, PD-textlogo / trademark restrictions noted at source). The curved procedural can uses this lettering, not a photograph wrapped around a cylinder.
 - diet-coke-logo.svg: original official logo asset, https://www.coca-cola.com/content/dam/onexp/gb/en/logos/DietCoke.svg . Reference only, not loaded by the site.
+- can-india-fallback.webp: locally rendered still of the revised procedural 330 ml can, used during loading and for mobile, reduced motion and WebGL failure. No private photo pixels are used.
 
-The can geometry, lighting, material masks and application layouts are authored locally. The 3D can is an approximation of the selected packaging, not an official production CAD model.
+The can geometry, lighting, material masks and application layouts are authored locally. The 3D can is a visual reconstruction, not an official production CAD model or an exact regulatory-label reproduction. Its slim profile, oversized wraparound wordmark, lower-front copy, nutrition-panel arrangement, 330 ml marking, vegetarian mark and barcode follow the supplied references. At the owner's request, indistinct back-panel microcopy is replaced by playful portfolio copy and an explicit unsolicited-concept disclosure. No private reference photographs or personal details are included. The lid is inferred because the supplied photographs do not show its top surface.
