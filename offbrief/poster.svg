@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="GOOD IDEAS DON’T STAY INSIDE — OFF/BRIEF campaign poster"><path fill="#f0eddf" d="M0 0h1200v800H0z"/>
+ <text x="48" y="45" font-family="monospace" font-size="15" fill="#191a1a">OFF/BRIEF / STUDIO EXPERIMENT 001</text><text x="827" y="45" font-family="monospace" font-size="15" fill="#191a1a">IDEAS HAVE OTHER PLANS.</text>
+ <rect x="246" y="136" width="695" height="492" fill="none" stroke="#f02d35" stroke-width="6"/>
+ <g fill="#191a1a" font-family="Arial,sans-serif" font-weight="900" font-size="148" letter-spacing="-9">
+ <text x="55" y="270">GOOD IDEAS</text><text x="152" y="422">DON’T STAY</text><text x="402" y="576">INSIDE.</text></g>
+ <path d="M888 590l-51 64h79l-22 48 159-121h-86l21-44" fill="#f02d35"/>
+ <path d="M233 135h31M246 122v27M925 628h31M941 613v30" stroke="#35c7d8" stroke-width="3"/>
+ <text x="51" y="654" font-family="monospace" font-size="17" fill="#191a1a">THE BRIEF IS A BEGINNING.</text><text x="51" y="680" font-family="monospace" font-size="17" fill="#191a1a">NOT A BORDER.</text>
+ <g transform="translate(50 727) scale(0.33)" fill="#191a1a"><path fill-rule="evenodd" d="M0 0H68V100H0ZM20 19V81H48V19Z" transform="translate(0)"/><path fill-rule="evenodd" d="M0 0H68V20H22V43H58V63H22V100H0Z" transform="translate(82)"/><path fill-rule="evenodd" d="M0 0H68V20H22V43H58V63H22V100H0Z" transform="translate(164)"/><path d="M276 -12h16l-40 125H236Z" fill="#f02d35"/><path fill-rule="evenodd" d="M0 0H52L68 16V43L59 50L68 59V84L52 100H0ZM22 19V41H46V19ZM22 60V81H46V60Z" transform="translate(304)"/><path fill-rule="evenodd" d="M0 0H53L68 15V49L51 61L72 100H46L24 61H22V100H0ZM22 20V42H46V20Z" transform="translate(386)"/><path fill-rule="evenodd" d="M0 0H24V100H0Z" transform="translate(468)"/><path fill-rule="evenodd" d="M0 0H68V20H22V40H60V60H22V80H68V100H0Z" transform="translate(506)"/><path fill-rule="evenodd" d="M0 0H68V20H22V43H58V63H22V100H0Z" transform="translate(588)"/></g><text x="581" y="754" font-family="monospace" font-size="16" fill="#191a1a">A STUDIO EXPERIMENT BY AKSHIT KHURANA</text>
+ </svg>
